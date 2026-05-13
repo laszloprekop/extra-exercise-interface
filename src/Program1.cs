@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace InterfaceExercise;
 
 public class Program1 : IStart
 {

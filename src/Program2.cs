@@ -1,6 +1,4 @@
-using System.Runtime.InteropServices.JavaScript;
-
-namespace DefaultNamespace;
+namespace InterfaceExercise;
 
 public class Program2 : IStart, IReset
 {

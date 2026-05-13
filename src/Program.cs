@@ -1,4 +1,4 @@
-﻿using DefaultNamespace;
+﻿using InterfaceExercise;
 
 var program1 = new Program1();
 var program2 = new Program2();
