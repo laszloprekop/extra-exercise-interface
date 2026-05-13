@@ -1,8 +1,8 @@
 namespace DefaultNamespace;
 
-public class Program1
+public class Program1 : IStart
 {
-    public void Run()
+    public void Start()
     {
         Console.WriteLine("Nu kör vi program 1");
     }
