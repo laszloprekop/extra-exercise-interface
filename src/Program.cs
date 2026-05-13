@@ -11,3 +11,10 @@ IStart p2 = new Program2();
 
 p1.Start();
 p2.Start();
+
+IFirst r1 = new ExplicitRunner();
+ISecond r2 = new ExplicitRunner();
+r1.Run();
+int result = r2.Run();
+
+Console.WriteLine($"Result: {result}");
