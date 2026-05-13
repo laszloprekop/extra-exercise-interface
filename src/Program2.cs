@@ -12,8 +12,3 @@ public class Program2 : IStart, IReset
         Console.WriteLine("Reset");
     }
 }
-
-interface IReset
-{
-    public void Reset();
-}
